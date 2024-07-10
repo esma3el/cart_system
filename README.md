@@ -10,14 +10,11 @@ Make sure you have Node.js and npm (or yarn) installed. You can download Node.js
 
 1. **Clone the repository:**
 
-    \`\`\`bash
     git clone https://github.com//esma3el/cart_system.git
     cd cart_system
-    \`\`\`
 
 2. **Install the dependencies:**
 
-    \`\`\`bash
     # Using npm
     npm install
 
@@ -25,12 +22,9 @@ Make sure you have Node.js and npm (or yarn) installed. You can download Node.js
 
 3. **Run the development server:**
 
-    \`\`\`bash
     # Using npm
     npm run dev
 
 4. **Open your browser and navigate to:**
 
-    \`\`\`
     http://localhost:5173
-    \`\`\`
