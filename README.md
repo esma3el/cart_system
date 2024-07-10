@@ -10,7 +10,7 @@ Make sure you have Node.js and npm (or yarn) installed. You can download Node.js
 
 1. **Clone the repository:**
 
-    git clone https://github.com//esma3el/cart_system.git
+    git clone https://github.com//esma3el/cart_system.git &&
     cd cart_system
 
 2. **Install the dependencies:**
