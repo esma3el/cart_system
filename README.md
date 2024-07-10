@@ -1,8 +1,3 @@
-
-# My Vue App
-
-This is a simple Vue.js application.
-
 ## Getting Started
 
 Follow these steps to get the project up and running on your local machine.
@@ -16,8 +11,8 @@ Make sure you have Node.js and npm (or yarn) installed. You can download Node.js
 1. **Clone the repository:**
 
     \`\`\`bash
-    git clone https://github.com/yourusername/your-vue-app.git
-    cd your-vue-app
+    git clone https://github.com//esma3el/cart_system.git
+    cd cart_system
     \`\`\`
 
 2. **Install the dependencies:**
@@ -25,10 +20,6 @@ Make sure you have Node.js and npm (or yarn) installed. You can download Node.js
     \`\`\`bash
     # Using npm
     npm install
-
-    # Using yarn
-    yarn install
-    \`\`\`
 
 ### Running the App
 
@@ -38,42 +29,8 @@ Make sure you have Node.js and npm (or yarn) installed. You can download Node.js
     # Using npm
     npm run dev
 
-    # Using yarn
-    yarn dev
-    \`\`\`
-
 4. **Open your browser and navigate to:**
 
     \`\`\`
-    http://localhost:3000
+    http://localhost:5173
     \`\`\`
-
-### Building for Production
-
-5. **Build the app for production:**
-
-    \`\`\`bash
-    # Using npm
-    npm run build
-
-    # Using yarn
-    yarn build
-    \`\`\`
-
-This will create a \`dist\` directory with the production build of the app.
-
-### Additional Commands
-
-- **Run tests:**
-
-    \`\`\`bash
-    # Using npm
-    npm run test
-
-    # Using yarn
-    yarn test
-    \`\`\`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
