@@ -1,0 +1,24 @@
+{
+  "name": "cart",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@primevue/themes": "^4.0.0",
+    "@vueuse/core": "^10.11.0",
+    "js-big-decimal": "^2.0.7",
+    "pinia": "^2.1.7",
+    "primevue": "^4.0.0",
+    "vue": "^3.4.29",
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
